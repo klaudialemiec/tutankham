@@ -16,10 +16,10 @@ The project introduces **conditional reward factor**, which adjust reward signal
 ## Results
 The videos show how conditional reward impacts on maze traverse.
 
-PPO agent (without reward modification):
+PPO agent (without reward modification):<br/>
 ![without reward modification](https://github.com/klaudialemiec/tutankham/blob/master/video/ppo-before.gif?raw=true)
 
-PPO CR agent (with reward modification):
+PPO CR agent (with reward modification):<br/>
 ![with reward modification](https://github.com/klaudialemiec/tutankham/blob/master/video/ppo-after.gif?raw=true)
 
 ### Comaprison of tester and achived models results:
