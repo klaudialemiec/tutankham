@@ -14,9 +14,13 @@ By killing reviving monsters agents are able to obtain high amount of points in 
 The project introduces **conditional reward factor**, which adjust reward signal due to source of the award.
 
 ## Results
-The videos show how conditional reward impacts on maze traverse:
-![PPO agent (without reward modification)](https://github.com/klaudialemiec/tutankham/blob/master/video/ppo-before.gif?raw=true "PPO agent (without reward modification)")
-![PPO CR agent (with reward modification)](https://github.com/klaudialemiec/tutankham/blob/master/video/ppo-after.gif?raw=true "PPO CR agent (with reward modification)")
+The videos show how conditional reward impacts on maze traverse.
+
+PPO agent (without reward modification):
+![without reward modification](https://github.com/klaudialemiec/tutankham/blob/master/video/ppo-before.gif?raw=true)
+
+PPO CR agent (with reward modification):
+![with reward modification](https://github.com/klaudialemiec/tutankham/blob/master/video/ppo-after.gif?raw=true)
 
 ### Comaprison of tester and achived models results:
 
